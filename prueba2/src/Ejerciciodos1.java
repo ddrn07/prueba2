@@ -1,5 +1,4 @@
 
-package src;
 public class Ejerciciodos1 {
 
     public static void main(String[] args){

@@ -1,5 +1,4 @@
-package src;
-public class Ejerciciodos13 {
+ class Ejerciciodos13 {
 
     public static void main(String[] args){
 
