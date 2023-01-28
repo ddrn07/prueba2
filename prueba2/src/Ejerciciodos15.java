@@ -6,6 +6,8 @@ public class Ejerciciodos15 {
         suma_edad=0;
         suma_altura=0;
         double media_edad, media_altura;
+        media_edad=0;
+        media_altura=0;
 
 
         for(int i=1; i<=5; i++){
